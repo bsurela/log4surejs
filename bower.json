@@ -3,10 +3,10 @@
   "version": "0.0.1",
   "homepage": "https://github.com/bsurela/log4surejs",
   "authors": [
-    "Bhavin Surela <bsureladev@gmail.com>"
+    "Bhavin Surela <bsurela@gmail.com>"
   ],
   "description": "Bower package for log4surejs",
-  "main": "lib/log4sure-0.1.min.js",
+  "main": "lib/log4sure.min.js",
   "keywords": [
     "log4sure"
   ],
