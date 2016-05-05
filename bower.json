@@ -1,0 +1,24 @@
+{
+  "name": "log4surejs",
+  "version": "0.0.1",
+  "homepage": "https://github.com/bsurela/log4surejs",
+  "authors": [
+    "Bhavin Surela <bsurela@gmail.com>"
+  ],
+  "description": "Bower package for log4surejs",
+  "main": "lib/log4sure.min.js",
+  "keywords": [
+    "log4sure"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "https://github.com/jquery/jquery.git#2.1.3"
+  }
+}
